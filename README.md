@@ -5,7 +5,7 @@
 
 - 💬 Me pergunte sobre **matemática**
 
-- 📫 Como me encontrar **https://www.linkedin.com/in/eduardo-henrique-fernandes-rosa-32a8b830/**
+- 📫 Como me encontrar **https://www.linkedin.com/in/oeduardohenrique/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
