@@ -5,9 +5,7 @@
 
 - 💬 Me pergunte sobre **matemática**
 
-- 📫 Como me encontrar **https://www.linkedin.com/in/oeduardohenrique/**
-
-## Contatos:
+## 📫 Como me encontrar
 
 <div>
 
