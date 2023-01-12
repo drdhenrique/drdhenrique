@@ -1,4 +1,4 @@
-## 🛠️ EM CONSTRUÇ 🛠️
+## 🛠️ EM CONSTRUÇÃO 🛠️
 
 <h1 align="center">Olá 👋, eu sou Eduardo Henrique</h1>
 <h3 align="center">Um entusiasta de análise e ciência de dados</h3>
