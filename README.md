@@ -1,3 +1,5 @@
+## 🛠️ EM CONSTRUÇ 🛠️
+
 <h1 align="center">Olá 👋, eu sou Eduardo Henrique</h1>
 <h3 align="center">Um entusiasta de análise e ciência de dados</h3>
 
@@ -14,15 +16,6 @@
 </div>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
-
-          
-          
-          
-          
-                  
-          
-
 
 <div>
 <a href="https://github.com/drdhenrique">
@@ -31,17 +24,3 @@
 </div>
 
 ![Snake animation](https://github.com/drdhenrique/drdhenrique/blob/output/github-contribution-grid-snake.svg)
-
-<!---
-- 👋 Hi, I’m @drdhenrique
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=drdhenrique&show_icons=true&locale=en&layout=compact" alt="drdhenrique" /></p>
-
-
-drdhenrique/drdhenrique is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
