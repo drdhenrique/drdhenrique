@@ -1,7 +1,5 @@
+<h1 align="center">Olá, eu sou Eduardo Henrique</h1>
 
-<h1 align="center">🛠️ EM CONSTRUÇÃO 🛠️</h1>
-
-<h1 align="center">Olá 👋, eu sou Eduardo Henrique</h1>
 <h3 align="center">Um entusiasta de análise e ciência de dados</h3>
 
 - 🌱 Atualmente estou aprendendo sobre **Análise de Dados e Ciência de Dados**, usando como ferramentas **Python, SQL, R e Excel/Planilhas**
