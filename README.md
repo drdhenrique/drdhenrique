@@ -1,12 +1,12 @@
-<h1 align="center">Olá, eu sou Eduardo Henrique</h1>
+<h1 align="center">Hi there! I'm Eduardo Henrique</h1>
 
-<h3 align="center">Um entusiasta de análise e ciência de dados</h3>
+<h3 align="center">I'm an analytics and data science enthusiast</h3>
 
-- 🌱 Atualmente estou aprendendo sobre **Análise de Dados e Ciência de Dados**, usando como ferramentas **Python, SQL, R e Excel/Planilhas**
+- 🌱I am currently learning about **Data Analysis and Data Science**, using **Python, SQL, R and Excel/Spreadsheets** as tools. The main focus is on building machine learning models.
 
-- 💬 Me pergunte sobre **matemática**
+- 💬 You can ask me about **Math**. Maybe I can help!
 
-## 📫 Como me encontrar
+## 📫 How t find me:
 
 <div>
 
@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/oeduardohenrique" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
+<h3 align="left">Programming languages and tools:</h3>
 
 <div>
 <a href="https://github.com/drdhenrique">
