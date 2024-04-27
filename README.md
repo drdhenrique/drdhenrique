@@ -6,7 +6,7 @@
 
 - 💬 You can ask me about **Math**. Maybe I can help!
 
-## 📫 How t find me:
+## 📫 How to find me:
 
 <div>
 
